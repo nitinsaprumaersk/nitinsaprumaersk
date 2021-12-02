@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nitin Sapru! <img src="https://media.giphy.com/media/XuJktW9ggTrnL7OOVG/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://www.maersk.com/">AP Moller - Maersk </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></br>Freelance Cloud Consultant on <a href="https://github.com/cloudmaker-inc">Cloudmaker Inc.</a><img src="https://media.giphy.com/media/4bQkOMNNzr0Dm/giphy.gif" width="30"> 
+<p><em>Senior Software Engineer at <a href="https://www.maersk.com/">AP Moller - Maersk </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: baklolkashmiri](https://img.shields.io/twitter/follow/baklolkashmiri?style=social)](https://twitter.com/baklolkashmiri)
