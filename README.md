@@ -17,7 +17,7 @@ public class DeveloperLife
    "Senior Software Engineer @ AP Moller - Maersk"
    
    IList<string> Backend => 
-   { "C#", ".NET 4.5+", ".NET Core 2.x+", ".NET 5", ".NET WebAPI", "PowerShell" }
+   { "C#", ".NET 4.5+", ".NET Core 2.x+", ".NET 6", ".NET Core WebAPI", "PowerShell" }
    
    IList<string> Frontend =>
    { "Javascript", "HTML5", "CSS3" }
